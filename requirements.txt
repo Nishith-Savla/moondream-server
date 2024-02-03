@@ -1,9 +1,8 @@
-accelerate==0.25.0
-huggingface-hub==0.20.1
-Pillow==10.1.0
-torch==2.1.2
-torchvision==0.16.2
-transformers==4.36.2
-einops==0.7.0
-gradio==4.15.0
-timm==0.9.12
+Pillow~=10.2.0
+torch~=2.2.0
+torchvision~=0.17.0
+transformers~=4.37.2
+einops~=0.7.0
+gradio~=4.16.0
+timm~=0.9.12
+fastapi~=0.109.0
